@@ -6,5 +6,5 @@ Read more our [🧑‍💻 Project Plan](https://docs.google.com/document/d/1FT3
 
 ### Our Group
 [@gedeapriana](https://github.com/gdapriana)
-[@DutaWijaya](https://github.com/gdapriana)
-[@sutrisnaeka](https://github.com/sutrisnaeka)
+[@DutaWijaya](https://github.com/DutaWijaya)
+[@sutrisnaeka](https://github.com/ekasutrisna)
