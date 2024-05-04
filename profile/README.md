@@ -1,12 +1,5 @@
-## Hi there 👋
+# BALIGEN
+---
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+BALIGEN is a website development project that aims to facilitate tourists in exploring the beauty and richness of Balinese culture digitally. With the rapid growth of the tourism industry in Bali, more and more travelers are seeking information about the island's unique tourist and cultural destinations. However, the lack of platforms that provide complete and verified information about these places is a problem that must be overcome.
+Read more our [🧑‍💻 Project Plan](https://docs.google.com/document/d/1FT3CzemEt1PJWEbbp4LjiucwTbWIm0tCEehCvKeI5G8/edit?usp=sharing)
