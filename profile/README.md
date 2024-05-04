@@ -16,12 +16,12 @@ Read more our [🧑‍💻 Project Plan](https://docs.google.com/document/d/1FT3
 <table>
   <tr>
     <td width="100px;" align="center">
-      <a href="https://github.com/gdapriana"><img src="https://github.com/gdapriana.png" width="100px;" alt=""/><br /><sub><b>I Komang Gede Apriana</b></sub></a><br /><sub><b>2108561031</b></sub><br /><sub><b>Kelas D</b></sub>
+      <a href="https://github.com/gdapriana"><img src="https://github.com/gdapriana.png" width="100px;" alt=""/><br /><sub><b>I Komang Gede Apriana</b></sub></a><br /><sub><b>F0146YA271</b></sub><br /><sub><b>FEBE-01</b></sub>
     </td>
     <td width="100px;" align="center">
-      <a href="https://github.com/DutaWijaya"><img src="https://github.com/DutaWijaya.png" width="100px;" alt=""/><br /><sub><b>Ni Putu Suci Paramitha</b></sub></a><br /><sub><b>2108561...</b></sub><br /><sub><b>Kelas D</b></sub>
+      <a href="https://github.com/DutaWijaya"><img src="https://github.com/DutaWijaya.png" width="100px;" alt=""/><br /><sub><b>I Putu Duta Wijaya</b></sub></a><br /><sub><b>F4036YA364</b></sub><br /><sub><b>FEBE-02</b></sub>
     </td>
     <td width="100px;" align="center">
-      <a href="https://github.com/ekasutrisna"><img src="https://github.com/ekasutrisna.png" width="100px;" alt=""/><br /><sub><b>Anugrah Ignatius Sitinjak</b></sub></a><br /><sub><b>2108561...</b></sub><br /><sub><b>Kelas D</b></sub>
+      <a href="https://github.com/ekasutrisna"><img src="https://github.com/ekasutrisna.png" width="100px;" alt=""/><br /><sub><b>I Komang Sutrisna Eka Wijaya</b></sub></a><br /><sub><b>F0146YA311</b></sub><br /><sub><b>FEBE-02</b></sub>
   </tr>
 </table>
